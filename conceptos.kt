@@ -1,15 +1,15 @@
 fun texto() {
-    var nombree: String = "Dairon_Smith"
+    var nombree: String = "Valery_Sarith"
     println(nombree)
 }
 
 
 fun edad(){
-    var contador: Int = 18
+    var contador: Int = 17
     println(contador)
 }
 fun texto2(){
-    var apellido: String = "Chapid \n"
+    var apellido: String = "Zambrano \n"
 	print (apellido)
 }
 
@@ -18,7 +18,7 @@ fun texto2(){
 
 
 fun lugarNacimiento (){
-   val ciudad:String = "Huila" 
+   val ciudad:String = "Bogota" 
    println (ciudad)
 }
 //la propiedad de opcional se define con parametros cuando declaramos la variable.
